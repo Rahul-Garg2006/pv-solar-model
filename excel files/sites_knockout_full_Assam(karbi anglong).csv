@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre,fail_reason
+Assam(karbi anglong),26,93.5,NaN,NaN,4.3812,0.42,22.77,1.29,NaN,NaN,10,0.652513627737937,16.0443635706067,13.8144955189467,0,0,NaN,GHI; DistGrid_km; LULC_code; 

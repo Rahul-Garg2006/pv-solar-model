@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+Kurnool(Andhra Pradesh),15.68,78.28,NaN,NaN,5.3335,0.51,27.24,4.02,0.926369172997106,180,30,2.22249809081603,0.802281981983661,5.34203251804934,2.69668049044587,666.363672191741,NaN

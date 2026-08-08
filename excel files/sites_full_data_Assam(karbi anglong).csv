@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+Assam(karbi anglong),26,93.5,NaN,NaN,4.3812,0.42,22.77,1.29,9.56,320.15,10,0.652513628,16.04436357,13.81449552,0,0,NaN

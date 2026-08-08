@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+Kamuthi(Tamil Nadu),9.34,78.39,NaN,NaN,5.5639,0.38,27.83,3.65,3.350343153,34.04215481,40,0.346939665,0.910921874,7.104764769,0.177438745,43.84602994,NaN

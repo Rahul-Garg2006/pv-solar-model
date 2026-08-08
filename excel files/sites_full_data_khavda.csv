@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+khavda,24.11,69.35,22450,NaN,5.5812,0.5,27.51,4.6,0.926369172997126,180,60,1.09262132804645,1.19658888374168,21.601485669452,46.9698639582361,11606.4958902053,1.93426165936487

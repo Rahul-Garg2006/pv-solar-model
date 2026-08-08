@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+pavagada,14.25,77.45,2050,NaN,5.6566,0.45,26.67,4.51,0.955779856641541,270,20,0.246367218094784,1.25278732571669,0.97959430547171,0.454626894708123,112.340652927979,18.2480691234209

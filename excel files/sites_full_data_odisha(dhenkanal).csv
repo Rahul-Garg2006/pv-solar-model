@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+Odisha(dhenkanal),20.72,85.69,NaN,NaN,4.8353,0.55,26.39,2.93,1.35571522860252,313.097241265044,30,2.0720586225991,8.01392192798767,10.9528627446941,0.125250004712455,30.9499228321352,NaN

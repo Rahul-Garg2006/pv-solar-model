@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+Vankal,23.62,93.12,NaN,NaN,4.6205,0.39,21.04,0.96,24.4878461091832,284.389142764561,10,0.845724428238975,1.65936172150151,10.6657837405659,0.00111308232071218,0.275048388309005,NaN

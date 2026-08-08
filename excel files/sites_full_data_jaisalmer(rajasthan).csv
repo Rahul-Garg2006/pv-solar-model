@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+Rajasthan(jaisalmer),26.92,70.9,NaN,NaN,5.7672,0.47,27.6,3.79,2.96456201120046,159.502550442552,60,0.469927191587926,2.0657375929106,4.64022317547885,32.6138832301499,8059.05893214737,NaN

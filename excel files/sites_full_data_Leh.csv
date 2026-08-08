@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+Leh,34.2,77.42,NaN,NaN,5.0815,0.15,-2.75,2.77,14.5941024252615,115.767212323587,60,0.789754915292401,4.20962845185347,7.23133429182678,25.7142745298271,6354.12999951248,NaN

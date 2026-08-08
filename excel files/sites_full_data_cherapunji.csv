@@ -1,0 +1,2 @@
+site_name,lat,lon,PlantCapacity_MW,KnownFootprint_acres,GHI,AOD,AmbientTemp,WindSpeed,Slope,Aspect,LULC_code,DistRoad_km,DistGrid_km,DistWater_km,LandAvailability_sqkm,LandAvailability_acres,PowerPerLand_MWperAcre
+Cherapunji,25.27,91.73,NaN,NaN,4.2874,0.53,17.96,2.42,2.116451799,151.054016,50,0.011080911,14.908971,0.81583894,0.337413122,83.37652453,NaN
